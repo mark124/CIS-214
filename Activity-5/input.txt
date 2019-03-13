@@ -1,0 +1,38 @@
+# Articles:
+this is the first test case
+this is a second test case
+this is neither the first nor a second test case
+the a the a the a abc
+the a the a the a
+this is the last articles test case
+
+# Certain prepositions:
+the first dog ran after the deer but before the second dog
+i will walk from here to over there
+it is warm in here and cold out there
+the rug is under the table and the table is over the rug
+on off under over
+this is the last prepositions test case
+
+# Duplicate consecutive words (except "first" and "last"):
+the boat had a blue blue hull
+the boat had a blue very blue hull
+the boat had a blue first blue hull
+it is is the best way to go go
+that that thats all folks
+rolling rolling rolling on the river
+the words first first and last last are intentionally not reduced
+my my
+
+# Certain misspelled words:
+a foriegn concept that preceeds thier
+a duplicated occurrance will excede the maximum allowed value
+the judgement of thier souls
+the music had a moving rythm
+
+# Occurrences of "first" and "last":
+the first shall be last
+the last shall be first
+multiple first place first place and last place last place winners and losers
+first first first
+last last

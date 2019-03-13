@@ -1,0 +1,38 @@
+# Articles:
+first this is test case
+this is second test case
+first this is neither nor second test case
+abc
+
+this is last articles test case
+
+# Certain prepositions:
+first dog ran deer but second dog
+i will walk here there
+it is warm here and cold there
+rug is table and table is rug
+
+this is last prepositions test case
+
+# Duplicate consecutive words (except "first" and "last"):
+boat had blue blue hull
+boat had blue very blue hull
+first boat had blue blue hull
+it is is best way go go
+that that thats all folks
+rolling rolling rolling river
+first first words and last last are intentionally not reduced
+my my
+
+# Certain misspelled words:
+foriegn concept that preceeds thier
+duplicated occurrance will excede maximum allowed value
+judgement of thier souls
+music had moving rythm
+
+# Occurrences of "first" and "last":
+first shall be last
+first last shall be
+first first multiple place place and last place last place winners and losers
+first first first
+last last
